@@ -18,11 +18,11 @@
 
   <h2>API Endpoints</h2>
     <ul>
-        <li><strong>GET /books</strong> - Get a list of all books</li>
-        <li><strong>GET /books/:id</strong> - Get details of a specific book by ID</li>
-        <li><strong>POST /books</strong> - Add a new book</li>
-        <li><strong>PUT /books/:id</strong> - Update an existing book's details</li>
-        <li><strong>DELETE /books/:id</strong> - Delete a book by ID</li>
+        <li><strong>GET /api/books</strong> - Get a list of all books</li>
+        <li><strong>GET /api/books/:id</strong> - Get details of a specific book by ID</li>
+        <li><strong>POST /api/books</strong> - Add a new book</li>
+        <li><strong>PUT /api/books/:id</strong> - Update an existing book's details</li>
+        <li><strong>DELETE /api/books/:id</strong> - Delete a book by ID</li>
     </ul>
 
   <h2>Technologies Used</h2>
