@@ -1,0 +1,17 @@
+{
+  "name": "orinson-tech-task3",
+  "version": "1.0.0",
+  "description": "Orinson-Tech-task3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --env-file=./.env --watch  index.js"
+  },
+  "author": "Bereket Zewde",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0",
+    "joi": "^17.13.3",
+    "mongoose": "^8.6.2"
+  }
+}
