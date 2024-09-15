@@ -10,7 +10,7 @@
 
   <h2>Setup Instructions</h2>
     <ol>
-        <li>Clone the repository: <code>git clone https://github.com/your-repo/book-management-api.git</code></li>
+        <li>Clone the repository: <code>git clone https://github.com/BereketZz/Orinson-Tech-task3.git</code></li>
         <li>Install dependencies: <code>npm install</code></li>
         <li>Create a <code>.env</code> file and add your MongoDB connection string: <code>MONGO_URI=your_mongodb_connection_string</code></li>
         <li>Start the server: <code>npm start</code></li>
